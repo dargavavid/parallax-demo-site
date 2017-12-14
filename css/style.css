@@ -8,6 +8,13 @@ body, html {
     color: #666;
 }
 
+.img {
+    position: relative;
+    opacity: 0.7;
+    background-position: center;
+    background-attachment: fixed;
+}
+
 .img1 {
     background-image: url("../images/image1.jpg");
     min-height: 100%;
