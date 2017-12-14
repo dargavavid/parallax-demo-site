@@ -29,3 +29,18 @@ body, html {
     background-image: url("../images/image3.jpeg");
     min-height: 400px;
 }
+
+.section {
+    text-align: center;
+    padding: 50px 80px;
+}
+
+.section-light {
+    background-color: #f4f4f4;
+    color: #666;
+}
+
+.section-dark {
+    background-color: #282e24;
+    color: #ddd;
+}
