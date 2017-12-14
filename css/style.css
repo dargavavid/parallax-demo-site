@@ -44,3 +44,14 @@ body, html {
     background-color: #282e24;
     color: #ddd;
 }
+
+.text {
+    position: absolute;
+    top: 50%;
+    width: 100%;
+    text-align: center;
+    color: #fff;
+    font-size: 27px;
+    letter-spacing: 8px;
+    text-transform: uppercase;
+}
